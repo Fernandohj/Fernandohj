@@ -1,7 +1,6 @@
 ### 👋 ¡Hi! I´m Fernando 
 
 I am a Computer Engineering student with a strong focus on robotics and artificial intelligence. I am actively involved in the Robotic club at UNAM (CROFI) and the Artificial Intelligence Society (SIAFI).
-## Hi there 👋
 
 ---
 
