@@ -2,7 +2,7 @@
 
 ### 👋 ¡Hola! Soy Fernando Hernández Juárez
 
-Soy un estudiante de Ingeniería en Computación en la UNAM (Universidad Nacional Autónoma de México) con graduación esperada en mayo de 2027.
+I am a Computer Engineering student with a strong focus on robotics and artificial intelligence. I am actively involved in the Robotic club at UNAM (CROFI) and the Artificial Intelligence Society (SIAFI).
 
 ---
 
@@ -45,7 +45,6 @@ Soy un estudiante de Ingeniería en Computación en la UNAM (Universidad Naciona
 
 * **Herramientas y Plataformas (Tools & DevOps):**
     * Git / GitHub
-    * Docker
     * Google Cloud Platform (GCP)
     * VS Code / PyCharm / Linux
 
@@ -56,7 +55,7 @@ Soy un estudiante de Ingeniería en Computación en la UNAM (Universidad Naciona
 *(Esta es la sección que te mencioné que faltaba. ¡Es una gran oportunidad para añadirla!)*
 
 * *Ejemplo: 🎯 Obtener una pasantía (internship) en una empresa líder en tecnología, con un enfoque en IA o robótica.*
-* *Ejemplo: 📈 Profundizar mis habilidades en algoritmos, estructuras de datos y diseño de sistemas.*
+* *Ejemplo: 📈 Profundizar mis habilidades en algoritmos, IA y robotica*
 * *Ejemplo: 🤖 Expandir mi experiencia en Visión por Computadora y navegación autónoma.*
 
 ---
