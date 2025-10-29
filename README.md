@@ -7,10 +7,9 @@ I am a Computer Engineering student with a strong focus on robotics and artifici
 ### 🚀 About Me
 
 * 📚 **Education:** Computer Engineering at UNAM.
-* 🧠 **Interests:** Robotics, artificial intelligence, and software development.
-* 💡 **Activities:** Active member of the robotics club (CROFI), former member of the AI society (SIAFI), and independent instructor for math and logical reasoning.
-* 🌎 **Focus:** I am passionate about applying my knowledge in practical environments to design, prototype, and test complex systems that integrate hardware and software.
-
+* 🧠 **Interests:** Robotics, AI/ML (Artificial Intelligence/Machine Learning), and software development.
+* 🌎 **Languages:** Spanish (Native), English (B1), and currently learning Italian (A1).
+* 📖 **Hobbies:** Exploring technological advancements, sports, and building robotics prototypes.
 ---
 
 ### 🏆 Featured Projects
